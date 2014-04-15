@@ -3,5 +3,5 @@ TV inspired emoticons
 
 what i call it  | image
 ------------- | -------------
-(getsmacked)  | ![getsmacked](tv/get_smacked.gif) 
+(getsmacked)  | ![getsmacked](get_smacked.gif) 
 
