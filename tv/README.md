@@ -1,4 +1,4 @@
 TV inspired emoticons
 =================
 
-[getsmacked](get_smacked.gif)
+![getsmacked](get_smacked.gif)
