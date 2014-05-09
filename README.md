@@ -30,5 +30,5 @@ what i call it  | image
 (highfive)  | ![highfive](tv_n_movies/highfive.gif) 
 (itsatrap)  | ![itsatrap](tv_n_movies/itsatrap.gif) 
 (ohreally)  | ![ohreally](tv_n_movies/ohrly.gif) 
-(smh)  | ![smh](smh.gif) 
+(smh)  | ![smh](tv_n_movies/smh.gif) 
 
