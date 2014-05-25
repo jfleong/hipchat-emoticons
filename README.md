@@ -12,6 +12,7 @@ what i call it  | image
 (getcrazy)  | ![getcrazy](general/get_crazy.gif) 
 (excited)  | ![excited](general/excited.gif) 
 (crickets)  | ![crickets](general/crickets.gif) 
+(mummy)  | ![mummy](general/mummy.gif) 
 (zombie)  | ![zombie](general/zombie.gif) 
 
 Developer inspired emoticons
