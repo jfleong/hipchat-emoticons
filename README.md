@@ -14,6 +14,7 @@ what i call it  | image
 (getcrazy)  | ![getcrazy](general/get_crazy.gif) 
 (hmmm)  | ![hmmm](general/hmmm.gif) 
 (mummy)  | ![mummy](general/mummy.gif) 
+(yawn)  | ![yawn](general/yawn.gif) 
 (zombie)  | ![zombie](general/zombie.gif) 
 
 Developer inspired emoticons
