@@ -9,9 +9,10 @@ General emoticons
 
 what i call it  | image
 ------------- | -------------
-(getcrazy)  | ![getcrazy](general/get_crazy.gif) 
-(excited)  | ![excited](general/excited.gif) 
 (crickets)  | ![crickets](general/crickets.gif) 
+(excited)  | ![excited](general/excited.gif) 
+(getcrazy)  | ![getcrazy](general/get_crazy.gif) 
+(hmmm)  | ![hmmm](general/hmmm.gif) 
 (mummy)  | ![mummy](general/mummy.gif) 
 (zombie)  | ![zombie](general/zombie.gif) 
 
@@ -20,8 +21,8 @@ Developer inspired emoticons
 
 what i call it  | image
 ------------- | -------------
-(shipit)  | ![shipit](dev/ship_it.gif) 
 (overit)  | ![overit](dev/over_it.gif) 
+(shipit)  | ![shipit](dev/ship_it.gif) 
 
 TV/Movie inspired emoticons
 =================
